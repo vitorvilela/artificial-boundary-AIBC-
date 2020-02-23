@@ -1,0 +1,3 @@
+Train Score: 2.74e-04 Loss (4.63e-04 RMSE) | 5.36% MAPE
+
+Test Score: 8.48e-04 Loss (1.64e-03 RMSE) | 1.39% MAPE
